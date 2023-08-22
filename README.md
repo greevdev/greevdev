@@ -10,4 +10,4 @@
 -------------------------
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=greevdev&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=greevdev&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=greevdev&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
