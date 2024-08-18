@@ -11,6 +11,7 @@
 <h3 align="left">Socials:</h3>
 <div>
   <a href="https://www.linkedin.com/in/georgiandreev/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" alt="LinkedIn"/></a>
+  <img width="12" />
   <a href="https://www.instagram.com/greev/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" height="40" alt="Instagram"/></a>
 </div>
 
