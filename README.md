@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🧑🏻‍💻 I'm currently working as a <strong>Freelance Web Developer</strong><br>📚 I'm majoring in <strong>Informatics</strong> at <strong>New Bulgarian University</strong></p>
+<p align="left">📚 Informatics student at <strong>New Bulgarian University</strong></p>
 
 <h3 align="left">Socials:</h3>
 <div>
@@ -17,7 +17,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Languages and Tools I know:</h2>
 
 ###
 
